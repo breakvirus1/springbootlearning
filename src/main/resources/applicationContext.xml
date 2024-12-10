@@ -14,6 +14,7 @@
     <bean id="musicPlayer"
           class="ru.breakvirus.firstapp.MusicPlayer">
 
+
     </bean>
 
 </beans>
